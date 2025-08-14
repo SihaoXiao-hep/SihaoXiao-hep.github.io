@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Sihao Xiao"
   pronouns         : # example: "she/her"  
-  bio              : "Graduate student in particle cosmology"
+  bio              : # "Graduate student in particle cosmology"
   location         : "Beijing, China"
-  employer         : "Institute of Theoretical Physics, Chinese Academy of Sciences"
+  employer         : # "Institute of Theoretical Physics, Chinese Academy of Sciences"
   uri              : # URL
   email            : "xiaosihao@itp.ac.cn" 
 
